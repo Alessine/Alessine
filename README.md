@@ -1,4 +1,6 @@
-<b>Hi, I’m Angela</b>
+![](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+
+### Hi, I’m Angela
 
 I'm currently working on the following projects:
 
@@ -6,6 +8,10 @@ I'm currently working on the following projects:
 - #TidyTuesday visualizations, because they're fun! :smile:
 
 You can check out the repos for both of these just below. :point_down:
+
+I'm learning about:
+
+- Data Science for Digital Marketing
 
 Feel free to reach out on LinkedIn. 
 
