@@ -1,6 +1,8 @@
-![](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+![](P1130854_cut.jpg)
 
-### Hi, I’m Angela
+### Hi, I’m Angela, a Data Scientist in the making
+
+--------------------------------------------------
 
 I'm currently working on the following projects:
 
@@ -9,11 +11,16 @@ I'm currently working on the following projects:
 
 You can check out the repos for both of these just below. :point_down:
 
-I'm learning about:
+--------------------------------------------------
+
+I'm learning and interested in exchanging about:
 
 - Data Science for Digital Marketing
+- Creating business value from data
 
-Feel free to reach out on LinkedIn. 
+----------------------------------------------------
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/angela-niederberger/). 
 
 <!---
 Alessine/Alessine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
