@@ -18,7 +18,7 @@ I'm learning and interested in exchanging about:
 
 ___________________________
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/angela-niederberger/). 
+Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angela-niederberger/). 
 
 
 <!---
