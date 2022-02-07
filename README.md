@@ -5,7 +5,7 @@ ___________________________
 I'm currently working on the following projects:
 
 - a movie recommender app using a fasttext model, deployed via Streamlit and AWS. 
-- a Streamlit app on apartment rents in Switzerland
+- a Streamlit app on rental prices in Switzerland
 - #TidyTuesday visualizations, because they're fun! :smile:
 
 You can check out the repos for these just below. :point_down:
