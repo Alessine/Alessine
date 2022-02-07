@@ -8,7 +8,7 @@ I'm currently working on the following projects:
 - a Streamlit app on rental prices in Switzerland (APIs, Visualization). :house: 
 - #TidyTuesday visualizations, because they're fun! :smile: 
 
-You can check out the repos for these just below. :point_down:
+You can check out the repos for these just below. 
 
 ___________________________
 
