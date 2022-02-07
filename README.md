@@ -4,9 +4,9 @@ ___________________________
 
 I'm currently working on the following projects:
 
-- a movie recommender app (Webscraping, APIs, NLP, MLOps). 
-- a Streamlit app on rental prices in Switzerland (APIs, Visualization).
-- #TidyTuesday visualizations, because they're fun! :smile:
+- a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
+- a Streamlit app on rental prices in Switzerland (APIs, Visualization). :house: 
+- #TidyTuesday visualizations, because they're fun! :smile: 
 
 You can check out the repos for these just below. :point_down:
 
