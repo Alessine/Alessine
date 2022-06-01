@@ -4,6 +4,7 @@ ___________________________
 
 I'm currently working on the following projects:
 
+- a tutorial on how to automate a scraping job with AWS
 - a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
 - a Streamlit app on rental prices in Switzerland (APIs, Visualization). :house: 
 - #TidyTuesday visualizations, because they're fun! :smile: 
