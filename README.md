@@ -2,7 +2,7 @@
 
 ___________________________
 
-I'm currently working on the following projects:
+I'm currently working on these projects:
 
 - a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
 ___________________________
