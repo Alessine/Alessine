@@ -4,8 +4,14 @@ ___________________________
 
 I'm currently working on the following projects:
 
-- a tutorial on how to automate a scraping job with AWS
 - a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
+
+___________________________
+
+I have published the following materials:
+
+
+- a [tutorial](https://medium.com/@angelaniederberger/automated-web-scraping-with-aws-72b7f80c2927) on how to automate a scraping job with AWS Free Tier (Code Refactor, S3, EC2)
 - a Streamlit app on rental prices in Switzerland (APIs, Visualization). :house: 
 - #TidyTuesday visualizations, because they're fun! :smile: 
 
