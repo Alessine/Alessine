@@ -4,7 +4,7 @@ ___________________________
 
 I'm currently working on these projects:
 
-- a dashboard to visualize data collected with Google Analytics 4
+- a dashboard to visualize data collected with Google Analytics 4 📊
 - a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
 ___________________________
 
