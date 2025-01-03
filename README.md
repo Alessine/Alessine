@@ -2,28 +2,14 @@
 
 ___________________________
 
-I'm currently working on these projects:
-
-- a dashboard to visualize data collected with Google Analytics 4 📊
-- a movie recommender app (Webscraping, APIs, NLP, MLOps). :movie_camera: 
-___________________________
-
-I have published the following materials:
-
+I'm continuously working on projects to enhance my skills and understanding of data and the web. Here are some examples of things I've created:
 - a [tutorial](https://medium.com/@angelaniederberger/automated-web-scraping-with-aws-72b7f80c2927) on how to automate a scraping job with AWS Free Tier (Code Refactor, S3, EC2)
-- a [Streamlit app](https://github.com/Alessine/swiss_rents) on rental prices in Switzerland (APIs, Visualization). :house: 
+- a [Flask Web App](https://github.com/Alessine/recipevault) integrating data from the Spoonacular API. :stew:
 - [#TidyTuesday visualizations](https://github.com/Alessine/TidyTuesday-Visualizations), because they're fun! :smile: 
 
 ___________________________
 
-I'm learning and interested in exchanging about:
-
-- Data Science for Digital Marketing
-- Creating business value from data
-
-___________________________
-
-Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angela-niederberger/). 
+I'm interested in exchanging about the use of data in media, digital subscriptions marketing and web programming. Get in touch with me on [LinkedIn](https://www.linkedin.com/in/angela-niederberger/). 
 
 
 <!---
