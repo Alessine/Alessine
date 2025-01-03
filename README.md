@@ -1,4 +1,4 @@
-### Hi, I’m Angela, a Data Scientist (forever in the making)
+### Hi, I’m Angela, a Digital Analyst
 
 ___________________________
 
